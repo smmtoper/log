@@ -1,0 +1,30 @@
+2024-05-31 03:36:46,137 — smmtoper-laptop — user_service — INFO — Generated user_id: 5663e5d7d37522956815ac12b8a7b57e
+2024-05-31 03:36:46,138 — smmtoper-laptop — subscriber — INFO — User ID 5663e5d7d37522956815ac12b8a7b57e successfully received
+2024-05-31 03:36:46,138 — smmtoper-laptop — subscriber — INFO — Connecting to broker broker.emqx.io
+2024-05-31 03:36:46,480 — smmtoper-laptop — subscriber — INFO — Subcribing
+2024-05-31 03:36:49,374 — smmtoper-laptop — user_service — INFO — Generated user_id: fd9caba06d5297c33c9d90b0676dcb04
+2024-05-31 03:36:49,374 — smmtoper-laptop — publisher — INFO — User ID fd9caba06d5297c33c9d90b0676dcb04 successfully received
+2024-05-31 03:36:49,375 — smmtoper-laptop — publisher — INFO — Connecting to broker broker.emqx.io
+2024-05-31 03:36:49,505 — smmtoper-laptop — publisher — INFO — Publishing
+2024-05-31 03:36:49,506 — smmtoper-laptop — publisher — DEBUG — State is onsmmtoper
+2024-05-31 03:36:49,835 — smmtoper-laptop — publisher — INFO — Connected to broker broker.emqx.io
+2024-05-31 03:36:50,841 — smmtoper-laptop — subscriber — DEBUG — received message = onsmmtoper
+2024-05-31 03:36:51,506 — smmtoper-laptop — publisher — DEBUG — State is offsmmtoper
+2024-05-31 03:36:52,641 — smmtoper-laptop — subscriber — DEBUG — received message = offsmmtoper
+2024-05-31 03:36:53,507 — smmtoper-laptop — publisher — DEBUG — State is offsmmtoper
+2024-05-31 03:36:54,641 — smmtoper-laptop — subscriber — DEBUG — received message = offsmmtoper
+2024-05-31 03:36:55,508 — smmtoper-laptop — publisher — DEBUG — State is onsmmtoper
+2024-05-31 03:36:56,641 — smmtoper-laptop — subscriber — DEBUG — received message = onsmmtoper
+2024-05-31 03:36:57,509 — smmtoper-laptop — publisher — DEBUG — State is onsmmtoper
+2024-05-31 03:36:58,641 — smmtoper-laptop — subscriber — DEBUG — received message = onsmmtoper
+2024-05-31 03:36:59,509 — smmtoper-laptop — publisher — DEBUG — State is onsmmtoper
+2024-05-31 03:37:00,645 — smmtoper-laptop — subscriber — DEBUG — received message = onsmmtoper
+2024-05-31 03:37:01,510 — smmtoper-laptop — publisher — DEBUG — State is onsmmtoper
+2024-05-31 03:37:02,645 — smmtoper-laptop — subscriber — DEBUG — received message = onsmmtoper
+2024-05-31 03:37:03,512 — smmtoper-laptop — publisher — DEBUG — State is onsmmtoper
+2024-05-31 03:37:04,645 — smmtoper-laptop — subscriber — DEBUG — received message = onsmmtoper
+2024-05-31 03:37:05,513 — smmtoper-laptop — publisher — DEBUG — State is onsmmtoper
+2024-05-31 03:37:06,648 — smmtoper-laptop — subscriber — DEBUG — received message = onsmmtoper
+2024-05-31 03:37:07,514 — smmtoper-laptop — publisher — DEBUG — State is offsmmtoper
+2024-05-31 03:37:08,649 — smmtoper-laptop — subscriber — DEBUG — received message = offsmmtoper
+2024-05-31 03:37:09,515 — smmtoper-laptop — publisher — INFO — Disconnecting
